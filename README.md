@@ -1,4 +1,7 @@
-# calculator
+# Calculadora
+
+![Preview](https://github.com/alxrds/calculadora-angular/blob/main/img-calculadora.png?raw=true)
+
 
 ## Project setup
 ```
