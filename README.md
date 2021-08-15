@@ -1,6 +1,6 @@
 # Calculadora
 
-![Preview](https://github.com/alxrds/calculadora-angular/blob/main/img-calculadora.png?raw=true)
+![Preview](https://github.com/alxrds/Calculadora_Usando_Vue/blob/main/calculadora.PNG?raw=true)
 
 
 ## Project setup
